@@ -1,1 +1,2 @@
 # -feladat1-
+Megjegyzések.
